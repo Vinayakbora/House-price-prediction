@@ -1,2 +1,2 @@
-# Loan-prediction
-We predict whether a client is deserving of a loan or not using linear regression in jupyter notebook.
+# House price-prediction
+WWe predict the house prices of a random city using linear regression in jupyter notebook.
